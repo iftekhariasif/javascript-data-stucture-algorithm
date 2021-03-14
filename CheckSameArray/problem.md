@@ -1,0 +1,1 @@
+Write a function that accepts two arrays and returns true if every member's value of one array has its own corresponding members having squared value in the second array. The array size must be the same. Also, the frequency of the member must be the same.
